@@ -1,0 +1,17 @@
+#
+# West Africa
+#
+gridtype  = lonlat
+gridsize  = 6003
+xname     = lon
+xlongname = longitude
+xunits    = degrees_east
+yname     = lat
+ylongname = latitude
+yunits    = degrees_north
+xsize     = 87
+ysize     = 69
+xfirst    = -18.04
+xinc      = 0.44
+yfirst    = 0
+yinc      = 0.44
